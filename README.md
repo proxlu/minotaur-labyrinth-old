@@ -9,7 +9,7 @@ You must have [Python 3](https://www.python.org/downloads/) installed on your ma
 
 shiv (pip install shiv) to compact this directory and run.
 
-## Mount pyz file
+## Mount executable.pyz
 On venv, run:
 ```
 shiv -o Minotaur\ Labyrinth.pyz -e "src.__main__:main" -p "/usr/bin/env python3" . -r requirements.txt
