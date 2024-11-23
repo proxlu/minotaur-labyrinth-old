@@ -15,5 +15,8 @@ On venv, run:
 shiv -o Minotaur\ Labyrinth.pyz -e "src.__main__:main" -p "/usr/bin/env python3" . -r requirements.txt
 ```
 
+![2024-11-21-202343_800x766_scrot](https://github.com/user-attachments/assets/6ba3d5d4-7e49-4565-a337-fcf12a5f17f1)
+![2024-11-21-202337_800x766_scrot](https://github.com/user-attachments/assets/7b230081-119f-4183-bde0-dd4fe6adf812)
+
 ## Author
 proxlu
